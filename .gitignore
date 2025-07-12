@@ -1,6 +1,12 @@
 # Build results
 [Dd]ebug/
 [Rr]elease/
+build-*
 
 # User-specific files
 *.user
+*.directory
+.idea
+.vs
+cmake-build-*
+makeqm.sh
